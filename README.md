@@ -1,12 +1,6 @@
-# The Complete Full-Stack Engineer Roadmap 🚀
+# The Complete Front-End Engineer Roadmap 🚀
 
 Learn everything you need to build any SAAS product in a very organized, ordered, and self-paced learning roadmap based on experience!
-
-![screely-1621816127208](https://user-images.githubusercontent.com/50620277/120562655-7ddb2700-c40f-11eb-94db-c64e100f2953.png)
-
-
-# Front-End Roadmap
-
 
 ## HTML (1/3 week) 
 
@@ -35,7 +29,7 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
 - [Tailwind CSS Full Course 2023](https://www.youtube.com/watch?v=tS7upsfuxmo)
 
-#TASK
+## TASK
 - [Create a responsive single web page using HTML & CSS](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
 
 ## Design for developers
@@ -93,7 +87,7 @@ In web development means enabling as **many people as possible** to use websites
 - [React Resources](https://reactresources.com/) - Articles, podcasts, conferences, books.
 - [Dan Abramov Blog](https://overreacted.io/) - Dan is one of the main developers of Reactjs core team. This blog is not only about react but UI engineering in general.
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-  #TASK
+  ## TASK
  - [Build a responsive React Website with Tailwind CSS](https://www.youtube.com/watch?v=TVQnhcVFTVs)
  - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
  - [Learn Redux Toolkit in under 1 hour](https://www.youtube.com/watch?v=pX0SBJF01EU)
