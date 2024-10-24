@@ -43,14 +43,11 @@ const Support = () => {
                   </div>
                   <div className='bg-slate-100 pl-8 py-4'>
                       <p className='flex items-center text-indigo-600'><ArrowSmRightIcon className='w-5 ml-2' />Contact Us </p>
-                  </div>
-              </div>
-
+                     
+                     </div>
+                </div>
+             </div>
         </div>
-
-
-        </div>
-
     </div>
     );
 }
