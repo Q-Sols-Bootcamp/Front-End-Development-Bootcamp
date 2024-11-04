@@ -32,7 +32,7 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 ## TASK
 - [Create a responsive single web page using HTML & CSS](https://dev.to/codewithsadee/responsive-e-book-website-using-html-css-javascript-5aj3)
 
-## Design for developers
+## Design for developers - reading material
 
 Your role as front-end developer is not to design user interfaces but to build it. with that being said I recommend that you get familier with UI design princiiples because you are going to implement UI/UX Designer [wireframes](https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/).
 
