@@ -83,7 +83,7 @@ In web development means enabling as **many people as possible** to use websites
 ## React (1.5 week)
 
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) - the web development industry is moving more towered a component-orianted way of developing user interfaces. this article will shows you how to think of components.
-- [React Docs]([https://reactjs.org/docs/getting-started.html](https://react.dev/)) - the technical team of react did a great job with this documentation. the most efficient resource for learning React.
+- [React Docs](https://react.dev/) - the technical team of react did a great job with this documentation. the most efficient resource for learning React.
 - [React Resources](https://reactresources.com/) - Articles, podcasts, conferences, books.
 - [Dan Abramov Blog](https://overreacted.io/) - Dan is one of the main developers of Reactjs core team. This blog is not only about react but UI engineering in general.
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
