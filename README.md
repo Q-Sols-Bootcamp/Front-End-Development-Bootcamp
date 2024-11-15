@@ -5,8 +5,8 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 ## HTML (1/3 week) 
 
 - [Semantic HTML (Free)](https://www.jungledisk.com/blog/2017/12/04/should-i-bother-with-semantic-html/) - Semantic HTML is really important for accessibility and SEO reasons.
-- [A friendly web development tutorial for complete beginners](https://www.internetingishard.com/)
-- [Standardista: CSS3, JS & HTML5 explained](http://www.standardista.com/) - a blog about web standards and performance
+- [A friendly web development tutorial for complete beginners](https://internetingishard.netlify.app/)
+- [CSS3, JS & HTML5 explained](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/) - a blog about web standards and performance
 
 
 ## Git (1/3 week)
