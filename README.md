@@ -87,6 +87,7 @@ In web development means enabling as **many people as possible** to use websites
 - [React Resources](https://reactresources.com/) - Articles, podcasts, conferences, books.
 - [Dan Abramov Blog](https://overreacted.io/) - Dan is one of the main developers of Reactjs core team. This blog is not only about react but UI engineering in general.
 - [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://www.youtube.com/watch?v=NqzdVN2tyvQ))
   ## TASK
  - [Build a responsive React Website with Tailwind CSS](https://www.youtube.com/watch?v=TVQnhcVFTVs)
  - [Build a responsive React Website with Tailwind CSS and Routes](https://www.youtube.com/watch?v=JE3w48KeSZ8)
