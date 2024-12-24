@@ -94,7 +94,7 @@ In web development means enabling as **many people as possible** to use websites
  - [Build a responsive React Website with Tailwind CSS and Routes](https://www.youtube.com/watch?v=JE3w48KeSZ8)
  - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)](https://www.youtube.com/watch?v=I1cpb0tYV74)
  - [Learn Redux Toolkit in under 1 hour](https://www.youtube.com/watch?v=pX0SBJF01EU)
- - [How To Create Complete Ecommerce Website Using React JS Step by Step Tutorial 2023](https://www.youtube.com/watch?v=jbfuzcrfjqQ)
+ - [Full-Stack Next.js Blog App with Prisma and Tanstack React Query](https://www.youtube.com/watch?v=HCF6vN-1SLc))
 
 ## Dev tools
 
