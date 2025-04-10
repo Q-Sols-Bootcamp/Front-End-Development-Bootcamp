@@ -14,6 +14,7 @@ Learn everything you need to build any SAAS product in a very organized, ordered
 - [BASIC GIT WORKFLOW](https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u)
 - [A Beginner’s Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+- [Naming conventions for Git Branches — a Cheatsheet](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/#specification) - A specification for adding human and machine readable meaning to commit messages
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 - [Version Control with Git (Free) (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
